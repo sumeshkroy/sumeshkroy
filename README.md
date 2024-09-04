@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm SUMESH K ROY
-### Asspiring Data Analyst and keen in Exploratory Data Analysis || Data preparation || Data Visualization ||
+### Aspiring Data Analyst and keen in Exploratory Data Analysis || Data preparation || Data Visualization ||
 
 <!--
 
